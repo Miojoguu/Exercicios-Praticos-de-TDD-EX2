@@ -102,6 +102,7 @@ class TestIsValidToInclude:
             "@example.com",
             "ana@.com",
             "ana@example.",
+            "ana@example..com",
             "ana @example.com",
             "ana@example .com",
             "ana@@example.com",
